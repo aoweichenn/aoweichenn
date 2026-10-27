@@ -7,6 +7,10 @@
   Building an agent workbench with a C++20 runtime and a TypeScript web interface.
 </p>
 
+<p align="center">
+  <a href="https://aoweichenn.github.io/">Visit the Nova site ↗</a>
+</p>
+
 ---
 
 ### Nova
